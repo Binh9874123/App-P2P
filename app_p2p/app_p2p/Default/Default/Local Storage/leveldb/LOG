@@ -1,0 +1,6 @@
+2025/06/08-10:35:34.494 81c Reusing MANIFEST D:\app_p2p\app_p2p\Default\Default\Local Storage\leveldb/MANIFEST-000001
+2025/06/08-10:35:34.502 81c Recovering log #57
+2025/06/08-10:35:34.504 81c Reusing old log D:\app_p2p\app_p2p\Default\Default\Local Storage\leveldb/000057.log 
+2025/06/08-11:02:42.195 6694 Level-0 table #62: started
+2025/06/08-11:02:42.203 6694 Level-0 table #62: 19730 bytes OK
+2025/06/08-11:02:42.207 6694 Delete type=0 #57
